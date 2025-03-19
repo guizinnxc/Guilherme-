@@ -81,7 +81,13 @@ height: 500px;
     height: 45px;
     position: relative;
     top: -70px;
+    border: 1z  px solid #000;
+    box-shadow: inset 0 0 0 0 #000000;
+    background-color: #c2bba4;
+
     
+
+
 }
 
 .text{
@@ -100,7 +106,10 @@ height: 500px;
     -ms-filter: blur(13px);
     filter: blur(13px);
     position:absolute;
-    width:100%;
+    width: 150%;
     height:100%;
+    border-style: solid;
+    border-color: #fdfbfb;
+    
     
 }
